@@ -1,8 +1,6 @@
-<a href="https://github.com/liujiangxu">  
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=liujiangxu&&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&text_color=9F9F9F&hide_border=true&show_icons=true&width=400"  />
-</a>
-<a href="https://github.com/liujiangxu">  
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=liujiangxu&&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&text_color=9F9F9F&hide_border=true&layout=compact&width=400"  />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujiangxu&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujiangxu&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujiangxu&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujiangxu&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujiangxu&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujiangxu&show_icons=true&theme=onedark)

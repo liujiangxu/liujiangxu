@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujiangxu&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujiangxu&show_icons=true&theme=ambient_gradient)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujiangxu&show_icons=true&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujiangxu&show_icons=true&theme=merko)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujiangxu&show_icons=true&theme=gruvbox)

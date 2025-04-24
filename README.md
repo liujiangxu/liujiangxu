@@ -1,6 +1,8 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/liujiangxu"> 
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=liujiangxu&bg_color=45,0D1117,1A1B26&title_color=FFFFFF&text_color=9F9F9F&hide_border=true&show_icons=true"  />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/liujiangxu"> 
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=liujiangxu&bg_color=45,0D1117,1A1B26&title_color=FFFFFF&text_color=9F9F9F&hide_border=true&layout=compact"  />
 </a>
